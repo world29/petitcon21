@@ -56,6 +56,10 @@
 		{
 			"Name": "HairModelingToolset",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkFaceImporter",
+			"Enabled": true
 		}
 	]
 }
